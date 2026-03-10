@@ -36,8 +36,7 @@
 								</td>
 								<td>
 									<span>
-										<xsl:attribute name="style">color:
-									<xsl:choose>
+										<xsl:attribute name="style">color:<xsl:choose>
 												<xsl:when test="precio &lt; 13">green</xsl:when>
 												<xsl:otherwise>red</xsl:otherwise>
 											</xsl:choose>

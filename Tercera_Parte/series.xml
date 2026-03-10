@@ -1,0 +1,755 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<series>
+    <serie sid="1" clasificacion="16" genero="drama" emision="false" finalizada="false">
+        <nombre_castellano>Detectives criminales</nombre_castellano>
+        <nombre_original>True Detective</nombre_original>
+        <temporadas>
+            <temporada numero="1">
+                <actores_temporada>
+                    <actor aid="1" />
+                    <actor aid="2" />
+                    <actriz aid="1" />
+                </actores_temporada>
+                <episodios>
+                    <episodio numero="1">
+                        <titulo>La larga y clara oscuridad</titulo>
+                        <fecha_estreno>12-01-2014</fecha_estreno>
+                    </episodio>
+                    <episodio numero="2">
+                        <titulo>Visiones</titulo>
+                        <fecha_estreno>19-01-2014</fecha_estreno>
+                    </episodio>
+                    <episodio numero="3">
+                        <titulo>La habitación cerrada</titulo>
+                        <fecha_estreno>26-01-2014</fecha_estreno>
+                    </episodio>
+                    <episodio numero="4">
+                        <titulo>¿Quién anda ahí?</titulo>
+                        <fecha_estreno>09-02-2014</fecha_estreno>
+                    </episodio>
+                    <episodio numero="5">
+                        <titulo>El sino secreto de toda la vida</titulo>
+                        <fecha_estreno>16-02-2014</fecha_estreno>
+                    </episodio>
+                    <episodio numero="6">
+                        <titulo>Casas encantadas</titulo>
+                        <fecha_estreno>23-02-2014</fecha_estreno>
+                    </episodio>
+                    <episodio numero="7">
+                        <titulo>Después de irte</titulo>
+                        <fecha_estreno>02-03-2014</fecha_estreno>
+                    </episodio>
+                    <episodio numero="8">
+                        <titulo>Forma y vacío</titulo>
+                        <fecha_estreno>09-03-2014</fecha_estreno>
+                    </episodio>
+                </episodios>
+            </temporada>
+            <temporada numero="2">
+                <actores_temporada>
+                    <actor aid="3" />
+                    <actriz aid="2" />
+                </actores_temporada>
+                <episodios>
+                    <episodio numero="1">
+                        <titulo>El mundo occidental</titulo>
+                        <fecha_estreno>21-06-2015</fecha_estreno>
+                    </episodio>
+                    <episodio numero="2">
+                        <titulo>La noche encuentra a la mañana</titulo>
+                        <fecha_estreno>28-06-2015</fecha_estreno>
+                    </episodio>
+                    <episodio numero="3">
+                        <titulo>Quizá mañana</titulo>
+                        <fecha_estreno>05-07-2015</fecha_estreno>
+                    </episodio>
+                    <episodio numero="4">
+                        <titulo>Abajo el mediodía</titulo>
+                        <fecha_estreno>12-07-2015</fecha_estreno>
+                    </episodio>
+                    <episodio numero="5">
+                        <titulo>Otros mundos</titulo>
+                        <fecha_estreno>19-07-2015</fecha_estreno>
+                    </episodio>
+                    <episodio numero="6">
+                        <titulo>Iglesia a la deriva</titulo>
+                        <fecha_estreno>26-07-2015</fecha_estreno>
+                    </episodio>
+                    <episodio numero="7">
+                        <titulo>Despierta a la muerte</titulo>
+                        <fecha_estreno>02-08-2015</fecha_estreno>
+                    </episodio>
+                    <episodio numero="8">
+                        <titulo>Omega Station</titulo>
+                        <fecha_estreno>09-08-2015</fecha_estreno>
+                    </episodio>
+                </episodios>
+            </temporada>
+            <temporada numero="3">
+                <actores_temporada />
+                <episodios>
+                    <episodio numero="1">
+                        <titulo>La Gran Guerra y la memoria moderna</titulo>
+                        <fecha_estreno>13-01-2019</fecha_estreno>
+                    </episodio>
+                    <episodio numero="2">
+                        <titulo>Despídete del mañana</titulo>
+                        <fecha_estreno>13-01-2019</fecha_estreno>
+                    </episodio>
+                    <episodio numero="3">
+                        <titulo>El gran nunca</titulo>
+                        <fecha_estreno>20-01-2019</fecha_estreno>
+                    </episodio>
+                    <episodio numero="4">
+                        <titulo>La hora y el día</titulo>
+                        <fecha_estreno>27-01-2019</fecha_estreno>
+                    </episodio>
+                    <episodio numero="5">
+                        <titulo>Si tienes fantasmas</titulo>
+                        <fecha_estreno>03-02-2019</fecha_estreno>
+                    </episodio>
+                    <episodio numero="6">
+                        <titulo>Cazadores en la oscuridad</titulo>
+                        <fecha_estreno>10-02-2019</fecha_estreno>
+                    </episodio>
+                    <episodio numero="7">
+                        <titulo>El último país</titulo>
+                        <fecha_estreno>17-02-2019</fecha_estreno>
+                    </episodio>
+                    <episodio numero="8">
+                        <titulo>Ahora dan conmigo</titulo>
+                        <fecha_estreno>24-02-2019</fecha_estreno>
+                    </episodio>
+                </episodios>
+            </temporada>
+            <temporada numero="4">
+                <actores_temporada />
+                <episodios>
+                    <episodio numero="1">
+                        <titulo>Noche Polar: Parte 1</titulo>
+                        <fecha_estreno>14-01-2024</fecha_estreno>
+                    </episodio>
+                    <episodio numero="2">
+                        <titulo>Noche Polar: Parte 2</titulo>
+                        <fecha_estreno>21-01-2024</fecha_estreno>
+                    </episodio>
+                    <episodio numero="3">
+                        <titulo>Noche Polar: Parte 3</titulo>
+                        <fecha_estreno>28-01-2024</fecha_estreno>
+                    </episodio>
+                    <episodio numero="4">
+                        <titulo>Noche Polar: Parte 4</titulo>
+                        <fecha_estreno>04-02-2024</fecha_estreno>
+                    </episodio>
+                    <episodio numero="5">
+                        <titulo>Noche Polar: Parte 5</titulo>
+                        <fecha_estreno>11-02-2024</fecha_estreno>
+                    </episodio>
+                    <episodio numero="6">
+                        <titulo>Noche Polar: Parte 6</titulo>
+                        <fecha_estreno>18-02-2024</fecha_estreno>
+                    </episodio>
+                </episodios>
+            </temporada>
+        </temporadas>
+        <plataforma_estreno>HBO</plataforma_estreno>
+        <directores>
+            <director did="1">
+                <nombre>Nic Pizzolatto</nombre>
+            </director>
+            <director did="2">
+                <nombre>Cary Joji Fukunaga</nombre>
+            </director>
+            <directora did="1">
+                <nombre>Issa López</nombre>
+            </directora>
+        </directores>
+        <actores_principales>
+            <actor aid="1">
+                <nombre>Matthew McConaughey</nombre>
+                <personaje>Rustin "Rust" Cohle</personaje>
+            </actor>
+            <actor aid="2">
+                <nombre>Woody Harrelson</nombre>
+                <personaje>Martin Hart</personaje>
+            </actor>
+            <actriz aid="1">
+                <nombre>Michelle Monaghan</nombre>
+                <personaje>Maggie Hart</personaje>
+            </actriz>
+            <actor aid="3">
+                <nombre>Colin Farrell</nombre>
+                <personaje>Raymond "Ray" Velcoro</personaje>
+            </actor>
+            <actriz aid="2">
+                <nombre>Rachel McAdams</nombre>
+                <personaje>Antigone "Ani" Bezzerides</personaje>
+            </actriz>
+        </actores_principales>
+    </serie>
+    <serie sid="2" clasificacion="16" genero="suspense" emision="true" finalizada="false">
+        <nombre_castellano>From</nombre_castellano>
+        <nombre_original>From</nombre_original>
+        <temporadas>
+            <temporada numero="1">
+                <actores_temporada>
+                    <actor aid="4" />
+                    <actor aid="5" />
+                    <actor aid="6" />
+                    <actriz aid="3" />
+                    <actriz aid="4" />
+                </actores_temporada>
+                <episodios>
+                    <episodio numero="1">
+                        <titulo>El largo viaje del día hacia la noche</titulo>
+                        <fecha_estreno>20-02-2022</fecha_estreno>
+                    </episodio>
+                    <episodio numero="2">
+                        <titulo>Cómo son las cosas ahora</titulo>
+                        <fecha_estreno>20-02-2022</fecha_estreno>
+                    </episodio>
+                    <episodio numero="3">
+                        <titulo>El día de la elección</titulo>
+                        <fecha_estreno>20-02-2022</fecha_estreno>
+                    </episodio>
+                    <episodio numero="4">
+                        <titulo>Una roca y una lejanía</titulo>
+                        <fecha_estreno>27-02-2022</fecha_estreno>
+                    </episodio>
+                    <episodio numero="5">
+                        <titulo>Siluetas</titulo>
+                        <fecha_estreno>06-03-2022</fecha_estreno>
+                    </episodio>
+                    <episodio numero="6">
+                        <titulo>Libro 74</titulo>
+                        <fecha_estreno>13-03-2022</fecha_estreno>
+                    </episodio>
+                    <episodio numero="7">
+                        <titulo>Todas las cosas buenas</titulo>
+                        <fecha_estreno>20-03-2022</fecha_estreno>
+                    </episodio>
+                    <episodio numero="8">
+                        <titulo>Ventanas rotas, puertas abiertas</titulo>
+                        <fecha_estreno>27-03-2022</fecha_estreno>
+                    </episodio>
+                    <episodio numero="9">
+                        <titulo>En los bosques</titulo>
+                        <fecha_estreno>03-04-2022</fecha_estreno>
+                    </episodio>
+                    <episodio numero="10">
+                        <titulo>Oh, los sitios adonde iremos</titulo>
+                        <fecha_estreno>10-04-2022</fecha_estreno>
+                    </episodio>
+                </episodios>
+            </temporada>
+            <temporada numero="2">
+                <actores_temporada>
+                    <actor aid="4" />
+                    <actor aid="5" />
+                    <actor aid="6" />
+                    <actriz aid="3" />
+                    <actriz aid="4" />
+                </actores_temporada>
+                <episodios>
+                    <episodio numero="1">
+                        <titulo>Extraños en una tierra extraña</titulo>
+                        <fecha_estreno>23-04-2023</fecha_estreno>
+                    </episodio>
+                    <episodio numero="2">
+                        <titulo>La amabilidad de los extraños</titulo>
+                        <fecha_estreno>30-04-2023</fecha_estreno>
+                    </episodio>
+                    <episodio numero="3">
+                        <titulo>Atadura</titulo>
+                        <fecha_estreno>07-05-2023</fecha_estreno>
+                    </episodio>
+                    <episodio numero="4">
+                        <titulo>Este camino recorrido</titulo>
+                        <fecha_estreno>13-05-2023</fecha_estreno>
+                    </episodio>
+                    <episodio numero="5">
+                        <titulo>Nana</titulo>
+                        <fecha_estreno>21-05-2023</fecha_estreno>
+                    </episodio>
+                    <episodio numero="6">
+                        <titulo>Paso de dos</titulo>
+                        <fecha_estreno>28-05-2023</fecha_estreno>
+                    </episodio>
+                    <episodio numero="7">
+                        <titulo>El vientre de la bestia</titulo>
+                        <fecha_estreno>04-06-2023</fecha_estreno>
+                    </episodio>
+                    <episodio numero="8">
+                        <titulo>El bosque para los árboles</titulo>
+                        <fecha_estreno>11-06-2023</fecha_estreno>
+                    </episodio>
+                    <episodio numero="9">
+                        <titulo>Bola de fuego mágico</titulo>
+                        <fecha_estreno>18-06-2023</fecha_estreno>
+                    </episodio>
+                    <episodio numero="10">
+                        <titulo>¿Érase una vez?</titulo>
+                        <fecha_estreno>25-06-2023</fecha_estreno>
+                    </episodio>
+                </episodios>
+            </temporada>
+            <temporada numero="3">
+                <actores_temporada>
+                    <actor aid="4" />
+                    <actor aid="5" />
+                    <actor aid="6" />
+                    <actriz aid="3" />
+                    <actriz aid="4" />
+                </actores_temporada>
+                <episodios>
+                    <episodio numero="1">
+                        <titulo>Destrozar</titulo>
+                        <fecha_estreno>22-09-2024</fecha_estreno>
+                    </episodio>
+                    <episodio numero="2">
+                        <titulo>Cuando nos vayamos</titulo>
+                        <fecha_estreno>29-09-2024</fecha_estreno>
+                    </episodio>
+                    <episodio numero="3">
+                        <titulo>Ratonera</titulo>
+                        <fecha_estreno>06-10-2024</fecha_estreno>
+                    </episodio>
+                    <episodio numero="4">
+                        <titulo>Ir y volver</titulo>
+                        <fecha_estreno>13-10-2024</fecha_estreno>
+                    </episodio>
+                    <episodio numero="5">
+                        <titulo>La luz del día</titulo>
+                        <fecha_estreno>20-10-2024</fecha_estreno>
+                    </episodio>
+                    <episodio numero="6">
+                        <titulo>Cicatrices</titulo>
+                        <fecha_estreno>27-10-2024</fecha_estreno>
+                    </episodio>
+                    <episodio numero="7">
+                        <titulo>Estas frágiles vidas</titulo>
+                        <fecha_estreno>03-11-2024</fecha_estreno>
+                    </episodio>
+                    <episodio numero="8">
+                        <titulo>Umbrales</titulo>
+                        <fecha_estreno>10-11-2024</fecha_estreno>
+                    </episodio>
+                    <episodio numero="9">
+                        <titulo>Revelación, capítulo 1</titulo>
+                        <fecha_estreno>17-11-2024</fecha_estreno>
+                    </episodio>
+                    <episodio numero="10">
+                        <titulo>Revelación, capítulo 2</titulo>
+                        <fecha_estreno>24-11-2024</fecha_estreno>
+                    </episodio>
+                </episodios>
+            </temporada>
+        </temporadas>
+        <plataforma_estreno>MGM+</plataforma_estreno>
+        <directores>
+            <director did="3">
+                <nombre>Jack Bender</nombre>
+            </director>
+            <directora did="2">
+                <nombre>Jennifer Liao</nombre>
+            </directora>
+            <director did="4">
+                <nombre>Brad Turner</nombre>
+            </director>
+        </directores>
+        <actores_principales>
+            <actor aid="4">
+                <nombre>Harold Perrineau</nombre>
+                <personaje>Boyd Stevens</personaje>
+            </actor>
+            <actriz aid="3">
+                <nombre>Catalina Sandino Moreno</nombre>
+                <personaje>Tabitha Matthews</personaje>
+            </actriz>
+            <actor aid="5">
+                <nombre>Eion Bailey</nombre>
+                <personaje>Jim Matthews</personaje>
+            </actor>
+            <actor aid="6">
+                <nombre>David Alpay</nombre>
+                <personaje>Jade Herrera</personaje>
+            </actor>
+            <actriz aid="4">
+                <nombre>Elizabeth saunders</nombre>
+                <personaje>Donna Raines</personaje>
+            </actriz>
+        </actores_principales>
+    </serie>
+    <serie sid="3" clasificacion="16" genero="drama" emision="false" finalizada="false">
+        <nombre_castellano>The Last of Us</nombre_castellano>
+        <nombre_original>The Last of Us</nombre_original>
+        <temporadas>
+            <temporada numero="1">
+                <actores_temporada>
+                    <actor aid="7" />
+                    <actriz aid="5" />
+                    <actor aid="8" />
+                </actores_temporada>
+                <episodios>
+                    <episodio numero="1">
+                        <titulo>Cuando te pierdes en la oscuridad</titulo>
+                        <fecha_estreno>15-01-2023</fecha_estreno>
+                    </episodio>
+                    <episodio numero="2">
+                        <titulo>Infectados</titulo>
+                        <fecha_estreno>22-01-2023</fecha_estreno>
+                    </episodio>
+                    <episodio numero="3">
+                        <titulo>Mucho, mucho tiempo</titulo>
+                        <fecha_estreno>29-01-2023</fecha_estreno>
+                    </episodio>
+                    <episodio numero="4">
+                        <titulo>Por favor, sostén mi mano</titulo>
+                        <fecha_estreno>05-02-2023</fecha_estreno>
+                    </episodio>
+                    <episodio numero="5">
+                        <titulo>Resistir y sobrevivir</titulo>
+                        <fecha_estreno>10-02-2023</fecha_estreno>
+                    </episodio>
+                    <episodio numero="6">
+                        <titulo>Familia</titulo>
+                        <fecha_estreno>19-02-2023</fecha_estreno>
+                    </episodio>
+                    <episodio numero="7">
+                        <titulo>Lo que dejamos atrás</titulo>
+                        <fecha_estreno>26-02-2023</fecha_estreno>
+                    </episodio>
+                    <episodio numero="8">
+                        <titulo>Cuando más lo necesitamos</titulo>
+                        <fecha_estreno>05-03-2023</fecha_estreno>
+                    </episodio>
+                    <episodio numero="9">
+                        <titulo>Busca la luz</titulo>
+                        <fecha_estreno>12-03-2023</fecha_estreno>
+                    </episodio>
+                </episodios>
+            </temporada>
+            <temporada numero="2">
+                <actores_temporada>
+                    <actor aid="7" />
+                    <actriz aid="5" />
+                    <actor aid="8" />
+                    <actriz aid="6" />
+                    <actor aid="9" />
+                </actores_temporada>
+                <episodios>
+                    <episodio numero="1">
+                        <titulo>Los días por venir</titulo>
+                        <fecha_estreno>13-04-2025</fecha_estreno>
+                    </episodio>
+                    <episodio numero="2">
+                        <titulo>Por el valle</titulo>
+                        <fecha_estreno>20-04-2025</fecha_estreno>
+                    </episodio>
+                    <episodio numero="3">
+                        <titulo>El camino</titulo>
+                        <fecha_estreno>27-04-2025</fecha_estreno>
+                    </episodio>
+                    <episodio numero="4">
+                        <titulo>Día uno</titulo>
+                        <fecha_estreno>04-05-2025</fecha_estreno>
+                    </episodio>
+                    <episodio numero="5">
+                        <titulo>Siente Su Amor</titulo>
+                        <fecha_estreno>11-05-2025</fecha_estreno>
+                    </episodio>
+                    <episodio numero="6">
+                        <titulo>El Precio</titulo>
+                        <fecha_estreno>18-05-2025</fecha_estreno>
+                    </episodio>
+                    <episodio numero="7">
+                        <titulo>Convergencia</titulo>
+                        <fecha_estreno>25-06-2025</fecha_estreno>
+                    </episodio>
+                </episodios>
+            </temporada>
+        </temporadas>
+        <plataforma_estreno>HBO</plataforma_estreno>
+        <directores>
+            <director did="5">
+                <nombre>Craig Mazin</nombre>
+            </director>
+            <director did="6">
+                <nombre>Neil Druckmann</nombre>
+            </director>
+        </directores>
+        <actores_principales>
+            <actor aid="7">
+                <nombre>Pedro Pascal</nombre>
+                <personaje>Joel Miller</personaje>
+            </actor>
+            <actriz aid="5">
+                <nombre>Bella Ramsey</nombre>
+                <personaje>Ellie</personaje>
+            </actriz>
+            <actor aid="8">
+                <nombre>Gabriel Luna</nombre>
+                <personaje>Tommy Miller</personaje>
+            </actor>
+            <actriz aid="6">
+                <nombre>Isabela Merced</nombre>
+                <personaje>Dina</personaje>
+            </actriz>
+            <actor aid="9">
+                <nombre>Young Mazino</nombre>
+                <personaje>Jesse</personaje>
+            </actor>
+        </actores_principales>
+    </serie>
+    <serie sid="4" clasificacion="18" genero="ciencia ficción" emision="false" finalizada="true">
+        <nombre_castellano>Altered Carbon</nombre_castellano>
+        <nombre_original>Altered Carbon</nombre_original>
+        <temporadas>
+            <temporada numero="1">
+                <actores_temporada>
+                    <actor aid="10" />
+                    <actriz aid="7" />
+                    <actor aid="12" />
+                    <actriz aid="8" />
+                </actores_temporada>
+                <episodios>
+                    <episodio numero="1">
+                        <titulo>Retorno al pasado</titulo>
+                        <fecha_estreno>02-02-2018</fecha_estreno>
+                    </episodio>
+                    <episodio numero="2">
+                        <titulo>Ángel caído</titulo>
+                        <fecha_estreno>02-02-2018</fecha_estreno>
+                    </episodio>
+                    <episodio numero="3">
+                        <titulo>En un lugar solitario</titulo>
+                        <fecha_estreno>02-02-2018</fecha_estreno>
+                    </episodio>
+                    <episodio numero="4">
+                        <titulo>La fuerza del mal</titulo>
+                        <fecha_estreno>02-02-2018</fecha_estreno>
+                    </episodio>
+                    <episodio numero="5">
+                        <titulo>El hombre equivocado</titulo>
+                        <fecha_estreno>02-02-2018</fecha_estreno>
+                    </episodio>
+                    <episodio numero="6">
+                        <titulo>El hombre con mi cara</titulo>
+                        <fecha_estreno>02-02-2018</fecha_estreno>
+                    </episodio>
+                    <episodio numero="7">
+                        <titulo>El perro rabioso</titulo>
+                        <fecha_estreno>02-02-2018</fecha_estreno>
+                    </episodio>
+                    <episodio numero="8">
+                        <titulo>Encuentro en la noche</titulo>
+                        <fecha_estreno>02-02-2018</fecha_estreno>
+                    </episodio>
+                    <episodio numero="9">
+                        <titulo>Alma en la sombra</titulo>
+                        <fecha_estreno>02-02-2018</fecha_estreno>
+                    </episodio>
+                    <episodio numero="10">
+                        <titulo>Forajidos</titulo>
+                        <fecha_estreno>02-02-2018</fecha_estreno>
+                    </episodio>
+                </episodios>
+            </temporada>
+            <temporada numero="2">
+                <actores_temporada>
+                    <actor aid="11" />
+                    <actriz aid="7" />
+                    <actor aid="12" />
+                    <actriz aid="8" />
+                </actores_temporada>
+                <episodios>
+                    <episodio numero="1">
+                        <titulo>La dama fantasma</titulo>
+                        <fecha_estreno>27-02-2020</fecha_estreno>
+                    </episodio>
+                    <episodio numero="2">
+                        <titulo>Pago diferido</titulo>
+                        <fecha_estreno>27-02-2020</fecha_estreno>
+                    </episodio>
+                    <episodio numero="3">
+                        <titulo>El callejón de las almas perdidas</titulo>
+                        <fecha_estreno>27-02-2020</fecha_estreno>
+                    </episodio>
+                    <episodio numero="4">
+                        <titulo>La sombra de una duda</titulo>
+                        <fecha_estreno>27-02-2020</fecha_estreno>
+                    </episodio>
+                    <episodio numero="5">
+                        <titulo>Vanidad fatal</titulo>
+                        <fecha_estreno>27-02-2020</fecha_estreno>
+                    </episodio>
+                    <episodio numero="6">
+                        <titulo>El cadáver errante</titulo>
+                        <fecha_estreno>27-02-2020</fecha_estreno>
+                    </episodio>
+                    <episodio numero="7">
+                        <titulo>Noche en el alma</titulo>
+                        <fecha_estreno>27-02-2020</fecha_estreno>
+                    </episodio>
+                    <episodio numero="8">
+                        <titulo>Angeles rotos</titulo>
+                        <fecha_estreno>27-02-2020</fecha_estreno>
+                    </episodio>
+                </episodios>
+            </temporada>
+        </temporadas>
+        <plataforma_estreno>Netflix</plataforma_estreno>
+        <directores>
+            <director did="7">
+                <nombre>Miguel Sapochnik</nombre>
+            </director>
+            <director did="8">
+                <nombre>Nick Hurran</nombre>
+            </director>
+            <director did="9">
+                <nombre>Andy Goddard</nombre>
+            </director>
+        </directores>
+        <actores_principales>
+            <actor aid="10">
+                <nombre>Joel Kinnaman</nombre>
+                <personaje>Takeshi Kovacs</personaje>
+            </actor>
+            <actor aid="11">
+                <nombre>Anthony Mackie</nombre>
+                <personaje>Takeshi Kovacs</personaje>
+            </actor>
+            <actriz aid="7">
+                <nombre>Renée Elise Goldsberry</nombre>
+                <personaje>Quellcrist Falconer</personaje>
+            </actriz>
+            <actor aid="12">
+                <nombre>James Purefoy</nombre>
+                <personaje>Laurens Bancroft</personaje>
+            </actor>
+            <actriz aid="8">
+                <nombre>Kristin Lehman</nombre>
+                <personaje>Miriam Bancroft</personaje>
+            </actriz>
+        </actores_principales>
+    </serie>
+    <serie sid="5" clasificacion="16" genero="ciencia ficción" emision="false" finalizada="false">
+        <nombre_castellano>Fallout</nombre_castellano>
+        <nombre_original>Fallout</nombre_original>
+        <temporadas>
+            <temporada numero="1">
+                <actores_temporada>
+                    <actriz aid="9" />
+                    <actor aid="13" />
+                    <actor aid="14" />
+                </actores_temporada>
+                <episodios>
+                    <episodio numero="1">
+                        <titulo>El fin</titulo>
+                        <fecha_estreno>11-04-2024</fecha_estreno>
+                    </episodio>
+                    <episodio numero="2">
+                        <titulo>El objetivo</titulo>
+                        <fecha_estreno>11-04-2024</fecha_estreno>
+                    </episodio>
+                    <episodio numero="3">
+                        <titulo>La cabeza</titulo>
+                        <fecha_estreno>11-04-2024</fecha_estreno>
+                    </episodio>
+                    <episodio numero="4">
+                        <titulo>Los necrófagos</titulo>
+                        <fecha_estreno>11-04-2024</fecha_estreno>
+                    </episodio>
+                    <episodio numero="5">
+                        <titulo>El pasado</titulo>
+                        <fecha_estreno>11-04-2024</fecha_estreno>
+                    </episodio>
+                    <episodio numero="6">
+                        <titulo>La trampa</titulo>
+                        <fecha_estreno>11-04-2024</fecha_estreno>
+                    </episodio>
+                    <episodio numero="7">
+                        <titulo>La radio</titulo>
+                        <fecha_estreno>11-04-2024</fecha_estreno>
+                    </episodio>
+                    <episodio numero="8">
+                        <titulo>El comienzo</titulo>
+                        <fecha_estreno>11-04-2024</fecha_estreno>
+                    </episodio>
+                </episodios>
+            </temporada>
+            <temporada numero="2">
+                <actores_temporada>
+                    <actriz aid="9" />
+                    <actor aid="13" />
+                    <actor aid="14" />
+                    <actor aid="15" />
+                </actores_temporada>
+                <episodios>
+                    <episodio numero="1">
+                        <titulo>El innovador</titulo>
+                        <fecha_estreno>16-12-2025</fecha_estreno>
+                    </episodio>
+                    <episodio numero="2">
+                        <titulo>La regla de oro</titulo>
+                        <fecha_estreno>24-12-2025</fecha_estreno>
+                    </episodio>
+                    <episodio numero="3">
+                        <titulo>La crápula</titulo>
+                        <fecha_estreno>31-12-2025</fecha_estreno>
+                    </episodio>
+                    <episodio numero="4">
+                        <titulo>El demonio de la nieve</titulo>
+                        <fecha_estreno>07-01-2026</fecha_estreno>
+                    </episodio>
+                    <episodio numero="5">
+                        <titulo>El Wrangler</titulo>
+                        <fecha_estreno>14-01-2026</fecha_estreno>
+                    </episodio>
+                    <episodio numero="6">
+                        <titulo>El otro jugador</titulo>
+                        <fecha_estreno>21-01-2026</fecha_estreno>
+                    </episodio>
+                    <episodio numero="7">
+                        <titulo>La entrega</titulo>
+                        <fecha_estreno>28-01-2026</fecha_estreno>
+                    </episodio>
+                    <episodio numero="8">
+                        <titulo>El strip</titulo>
+                        <fecha_estreno>04-02-2026</fecha_estreno>
+                    </episodio>
+                </episodios>
+            </temporada>
+        </temporadas>
+        <plataforma_estreno>Amazon Prime</plataforma_estreno>
+        <directores>
+            <director did="10">
+                <nombre>Jonathan Nolan</nombre>
+            </director>
+            <director did="11">
+                <nombre>Frederick E. O. Toye</nombre>
+            </director>
+            <directora did="3">
+                <nombre>Clare Kilner</nombre>
+            </directora>
+        </directores>
+        <actores_principales>
+            <actriz aid="9">
+                <nombre>Ella Purnell</nombre>
+                <personaje>Lucy MacLean</personaje>
+            </actriz>
+            <actor aid="13">
+                <nombre>Aaron Moten</nombre>
+                <personaje>Maximus</personaje>
+            </actor>
+            <actor aid="14">
+                <nombre>Walton Goggins</nombre>
+                <personaje>Cooper Howard "El Necrófago"</personaje>
+            </actor>
+            <actor aid="15">
+                <nombre>Justin Theroux</nombre>
+                <personaje>Robert Edwin House</personaje>
+            </actor>
+        </actores_principales>
+    </serie>
+</series>

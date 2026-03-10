@@ -1,0 +1,33 @@
+a. Nombre de los módulos que se imparten en el Instituto:
+Aplicaciones web
+Gestión de bases de datos
+Lenguajes de marcas y sistemas de gestión de información
+Implantación de aplicaciones web
+
+Solución: //modulos//nombre/text()
+
+b. Nombre de los módulos del ciclo ASIR:
+Gestión de bases de datos
+Lenguajes de marcas y sistemas de gestión de información
+Implantación de aplicaciones web
+
+Solución: //modulo[ciclo = "ASIR"]/nombre/text()
+
+c. Nombre de los módulos que se imparten en el segundo curso de cualquier ciclo:
+Aplicaciones web
+Implantación de aplicaciones web
+
+Solución: //modulo[curso = "2"]/nombre/text()
+
+d. Nombre de los módulos de menos de 5 horas semanales:
+Aplicaciones web
+Lenguajes de marcas y sistemas de gestión de información
+
+Solución: //modulo[horasSemanales < "5"]/nombre/text()
+
+f. Horas semanales de los módulos de más de 3 horas semanales:
+4
+5
+5
+
+Solución: //horasSemanales[. > "3"]/text()

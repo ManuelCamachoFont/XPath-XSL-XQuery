@@ -1,0 +1,45 @@
+CONSULTAS
+- Consulta 1: Mostrar los nombres de todas las series.
+
+Solución 1:
+for $n in /series/serie
+return <nombre>{$n/nombre_original/text()} / {$n/nombre_castellano/text()}</nombre>
+
+-Consulta 2: Mostrar los nombres de las series para todos los públicos (TP).
+
+Solución 2:
+for $s in /series/serie
+where $s/@clasificacion = "TP"
+return <nombre>{$s/nombre_original/text()} / {$s/nombre_castellano/text()}</nombre>
+
+
+
+- Consulta 3: Mostrar los nombres originales de las series junto al número total de
+temporadas.
+
+Solución 3.1:
+for $s in /series/serie
+return <serie> <nombre>{$s/nombre_original/text()}</nombre><temporadas>{count($s/temporadas/temporada)}</temporadas></serie>
+
+Solución 3.2:
+for $s in /series/serie
+return <serie> {$s/nombre_original/text()}, Temporadas: {count($s/temporadas/temporada)}</serie>
+
+
+
+- Consulta 4: Mostrar los nombres de los directores de las series ordenados por
+orden alfabético.
+
+Solución 4:
+for $d in //directores/*
+order by $d
+return <director>{$d//nombre/text()}</director>
+
+
+
+- Consulta 5: Mostrar los nombres de los actores y actrices de las series eliminando
+los repetidos.
+
+Solución 5:
+for $a in distinct-values(//actores_principales/*/nombre)
+return <actor>{$a}</actor>

@@ -26,9 +26,7 @@
 								</td>
 								<td>
 									<xsl:value-of select="titulo"/>
-									<xsl:if test="titulo = '1984'">
-								(Sin censura)
-								</xsl:if>
+									<xsl:if test="titulo = '1984'">(Sin censura)</xsl:if>
 								</td>
 								<td>
 									<xsl:value-of select="autor"/>
@@ -38,15 +36,10 @@
 								</td>
 								<td>
 									<span>
-										<xsl:attribute name="style">
-								color:
+										<xsl:attribute name="style">color:
 									<xsl:choose>
 												<xsl:when test="precio &lt; 13">green</xsl:when>
-												<xsl:otherwise>
-										
-											red
-										
-									</xsl:otherwise>
+												<xsl:otherwise>red</xsl:otherwise>
 											</xsl:choose>
 										</xsl:attribute>
 										<xsl:value-of select=" precio"/>
